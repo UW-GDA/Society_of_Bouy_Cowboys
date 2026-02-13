@@ -51,7 +51,7 @@ Calculate the Wave Attenuation Rate as a function of Wave Height using Equation 
 First, we expect to produce a set of graphs that show a decrease in the wave heights in the x direction as they travel from open water, through the ice covered region. Secondly, we expect to produce a graph that shows a positive correlation between the thickness of the ice and the extent to which incoming waves are attenuated.
 
 ## References:
-https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL090735
-https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JC016746
+- https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL090735
+- https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JC016746
 
 
