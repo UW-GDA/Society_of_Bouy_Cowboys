@@ -20,6 +20,7 @@ The typical (and highly simplified) evolution of sea ice formation is: frazil ic
 
 ### Study Site: 
 For this study we will be examining a three day wave event at the S1 Mooring Site from November 21-23,2019 as part of  CODA (Coastal Ocean Dynamics in the Arctic) 2019 project. During this event, a sustained 2m wave height was observed with a maximum of 3m significant wave height. Wave attenuation was also observed as waves passed through the ice edge, as wave height decreased as waves traveled inshore and further into the sea ice. Additionally, the type of ice observed at the site also changed during the wave event, starting with pancake ice transforming to frazil/grease ice and converting to open water by the end of the wave event. However the decrease in sea ice was probably due to the transportation and mixing of ocean heat nearshore from the wind and waves (via Stokes Drift). 
+
 <img width="623" height="378" alt="Screenshot 2026-02-13 at 11 27 45 AM" src="https://github.com/user-attachments/assets/600bf04f-55e9-4b89-9904-5873e0076eb9" />
 
 *Map of Mooring Sites for the CODA 2019 Research Cruise*
