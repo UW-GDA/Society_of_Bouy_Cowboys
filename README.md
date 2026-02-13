@@ -3,6 +3,7 @@
 
 ## Project Summary: 
 Climate change is reshaping polar environments, delaying Autumn freeze-up of sea ice by over two months and causing a greater shift from perennial to seasonal sea ice. Sea ice has historically been a guard for Arctic coastlines by reducing wave energy and warding off erosion and storm surge. However, the coevolution of strengthened Autumn Storms due to increased sea surface temperatures and decreased presence of sea ice, coastal habitats and local communities who are at risk. This project seeks to understand the dynamics between waves and sea ice by calculating wave attenuation rates in the marginal ice zone.
+
 ## Background: 
 ### What is Wave Attenuation? 
 Wave attenuation is the loss of energy as waves travel through a medium. As ocean waves propagate through sea ice, they attenuate or lose energy due to higher friction imposed by the ice. When observed, shorter wavelength waves quickly die out, whereas longer gravity waves attenuate but continue to propagate through the ice.
@@ -15,7 +16,6 @@ Wave attenuation is typically modeled using an exponential decay, with alpha rep
 
 ### Pancakes? Frazil? What do the different types of Ice Mean? 
 The typical (and highly simplified) evolution of sea ice formation is: frazil ice, which has a slushie-like consistency, thickens and develops into pancake ice— think American-diner-size circular ice floes that eventually clump together to form ice rafts. These rafts continue to consolidate and combine to form larger ice sheets, and eventually ice bergs. For the purposes of this project, we will be focusing on how waves interact with newly formed frazil and pancake ice. 
-
 
 
 ### Study Site: 
