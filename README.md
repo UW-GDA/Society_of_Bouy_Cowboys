@@ -9,12 +9,12 @@ Wave attenuation is the loss of energy as waves travel through a medium. As ocea
 Visual Aid: https://www.youtube.com/watch?v=CU2xz8F-PLE
 
 ### How to Calculate Wave Attenuation?
-Wave attenuation is typically modeled using an exponential decay, with alpha representing our attenuation rate. We will be using wave height as a proxy for wave energy in this project, as they are proportional to one another. We will use Equation 1 from Thomson et al. 2021 to complete our calculations, where x is the distance crosshorse. 
+Wave attenuation is typically modeled using an exponential decay, with alpha representing our attenuation rate. We will be using wave height as a proxy for wave energy in this project, as they are proportional to one another. We will use Equation 1 from Thomson et al. 2021 to complete our calculations, where x is the distance cross-shore. 
           
 # $H(x) = H_0 e^{\alpha x}$
 
 ### Pancakes? Frazil? What do the different types of Ice Mean? 
-The typical (and highly simplified) evolution of sea ice formation is: frazil ice, which has a slushie-like consistency, thickens and develops into pancake ice— think American-diner-size circular ice floes that eventually clump together to form ice rafts. These rafts continue to consolidate and combine to form larger ice sheets, and eventually ice bergs. For the purposes of this project, we will be focusing on how waves interact with newly formed frazil and pancake ice. Reference Below Sea Ice Code Chart created by Cal Hobson:
+The typical (and highly simplified) evolution of sea ice formation is: frazil ice, which has a slushie-like consistency, thickens and develops into pancake ice— think American-diner-size circular ice floes that eventually clump together to form ice rafts. These rafts continue to consolidate and combine to form larger ice sheets, and eventually ice bergs. For the purposes of this project, we will be focusing on how waves interact with newly formed frazil and pancake ice. 
 
 
 
