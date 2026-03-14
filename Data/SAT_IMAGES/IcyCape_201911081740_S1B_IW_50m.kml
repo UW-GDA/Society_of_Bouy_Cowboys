@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<open>1</open>
+    <name>IcyCape_201911081740_S1B_IW_50mA</name>
+    <Placemark>
+      <Style>
+        <LineStyle>
+         <color>647800F0</color>
+         <width>1.5</width>
+        </LineStyle>
+      </Style>
+      <name>IcyCape_201911081740_S1B_IW_50m</name>
+      <description><![CDATA[<p>IcyCape_201911081740_S1B_IW_50m</p>]]></description>
+      <LinearRing>
+        <coordinates>
+          -163.3805,69.8961 -163.3805,70.7961 -160.7045,70.7961 -160.7045,69.8961 -163.3805,69.8961
+        </coordinates>
+      </LinearRing>
+    </Placemark>
+   <GroundOverlay>
+   <name>S1B Image - HH</name>
+    <Icon>
+    <href>IcyCape_201911081740_S1B_IW_50m.png</href>
+    </Icon>
+    <LatLonBox>
+      <north>70.7961</north>
+      <south>69.8961</south>
+      <east>-160.7045</east>
+      <west>-163.3805</west>
+      <rotation>0</rotation>
+    </LatLonBox>
+  </GroundOverlay>
+</Document>
+</kml>
