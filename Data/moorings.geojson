@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "moorings",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32604" } },
+"features": [
+{ "type": "Feature", "properties": { "source": "S1P1", "lat": 70.34613, "lon": -162.05704 }, "geometry": { "type": "Point", "coordinates": [ 385288.486440183303785, 7807356.201201874762774 ] } },
+{ "type": "Feature", "properties": { "source": "S1P2", "lat": 70.39473, "lon": -162.13675 }, "geometry": { "type": "Point", "coordinates": [ 382579.190491679590195, 7812922.16336574498564 ] } },
+{ "type": "Feature", "properties": { "source": "S1P3", "lat": 70.43995, "lon": -162.203 }, "geometry": { "type": "Point", "coordinates": [ 380366.745992693293374, 7818088.38529371842742 ] } },
+{ "type": "Feature", "properties": { "source": "S1A1", "lat": 70.48695, "lon": -162.28278 }, "geometry": { "type": "Point", "coordinates": [ 377672.411496279702988, 7823482.253371085040271 ] } }
+]
+}
